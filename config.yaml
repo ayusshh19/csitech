@@ -1,0 +1,6 @@
+path : 'C:\Users\AYUSH SHUKLA\Desktop\v8\ball\data'
+train : images
+val : images
+
+names :
+  0 : ball
